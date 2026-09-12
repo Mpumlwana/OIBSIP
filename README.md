@@ -31,8 +31,8 @@ OIBSIP/
 | # | Task | Status |
 |---|---|---|
 | 1 | 🌸 Iris Flower Classification | ✅ Done |
-| 2 | 📈 Sales Prediction | ⏳ In Progress |
-| 3 | 🚗 Car Price Prediction | ⏳ Not Started |
+| 2 | 📈 Sales Prediction | ✅ Done |
+| 3 | 🚗 Car Price Prediction | ⏳ In Progress |
 | 4 | 📉 Unemployment Analysis | ⏳ Not Started |
 | 5 | 📧 Email Spam Detection | ⏳ Not Started |
 
